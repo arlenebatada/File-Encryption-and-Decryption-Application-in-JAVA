@@ -12,3 +12,5 @@ Would you like to have your encrypted files back in the form they used to be?
 
 Don't worry. It is also other way around. With the password you had used for encryption you can perform DECRYPTION and convert your files back to their original form.
 Moreover, the application does NOT store your passwords.  Instead it uses SHA-512 hashing algorithm to verify the password.
+
+Demonstration of the application available at: https://youtu.be/rt5jLN4jJ_U
