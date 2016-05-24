@@ -3,7 +3,7 @@ Do you wish to convert your movies to a form in which others cannot watch them?
 Do you wish to convert your documents to a form in which others cannot read them? 
 Do you wish to convert your executable files to a form in which others cannot execute them?
 
-If your answer to all the above questions is  "YES"  then this software is definitely for you. 
+If your answer to any of the above questions is  "YES"  then this software is definitely for you. 
 
 With this software you can perform ENCRYPTION and encrypt your video files, audio files, text files, executable files, pdf, or any other file of your choice. 
 This way, without your password, files such as movies,music, pdf, documents, images, etc. won't open. Executable files will no longer be in a state to be executed. 
